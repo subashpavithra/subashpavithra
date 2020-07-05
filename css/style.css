@@ -1093,7 +1093,7 @@ h3 {
     transform: translate(0%, -50%) rotate(0deg);
     padding: 35px 25px;
     left: 0;
-    padding: 35px 25px;
+    padding: 40px 25px;
     left: 0;
     right: 0;
     margin: auto;
@@ -1101,7 +1101,7 @@ h3 {
     transform: translateY(-50%);
     display: inline-block;
     width: 270px;
-    height: 270px;
+    height: 300px;
   }
 }
 
